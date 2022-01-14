@@ -1,5 +1,11 @@
-# Politics-in-the-Time-of-Twitter
-In this repo we provide some of the resources used in our 'Politics in the Time of Twitter: A Large-Scale Cross-partySentiment Analysis in Greece, Spain and United Kingdom' paper. In specific our model used for sentiment analysis and the manually annotated data used for training are shared.
+# Politic-and-Virality-in-Twitter
+In this repo we provide some of the resources used in our 'Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party
+Sentiment Analysis in Greece, Spain and United Kingdom' paper. In specific:
+- the code used for the training of our models (./code/inetune_models.py and ./code/finetune_multi_cv.py)
+- the model that was selected and used for the sentiment analysis
+- the manually annotated data used for training are shared (./data/annotation/).
+- the ids of tweets that were used in our analyis and control experiments (./data/main/ & ./data/control)
+- a Jupyter Notebook containing the major parts of our analysis.
 
 ## Annotated Data (./data/annotation/)
 - One folder for each language (English, Spanish, Greek).
