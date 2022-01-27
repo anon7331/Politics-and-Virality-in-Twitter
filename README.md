@@ -16,7 +16,7 @@ Sentiment Analysis in Greece, Spain and United Kingdom' paper. In specific:
 
 
 ## Model
-While we plan to upload all the models trained for our experiments to huggingface.co, currently only the main model used in our analysis can be currently be find at: https://anonymshare.com/d/r11E/xlm-roberta-sentiment-multilingual.
+While we plan to upload all the models trained for our experiments to huggingface.co, currently only the main model used in our analysis can be currently be find at: https://anonymshare.com/jNYr/xlm-roberta-sentiment-multilingual.zip.
 
 The model, 'xlm-roberta-sentiment-multilingual', is based on the implementation of 'cardiffnlp/twitter-xlm-roberta-base-sentiment' while being further finetuned on the annotated dataset.
 
